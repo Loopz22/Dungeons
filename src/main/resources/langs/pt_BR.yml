@@ -1,0 +1,7 @@
+error-sender: '&cO Console não pode executar este comando.'
+error-permission: '&cVocê não possuí permissão para utilizar este comando.'
+error-args:
+  - '&eLista de comandos disponíveis'
+  - '&7/dungeon create <nome> <slots> &8- Cria uma nova dungeon'
+  - '&7/dungeon delete <nome> &8- apaga uma dungeon'
+  - '&7/'

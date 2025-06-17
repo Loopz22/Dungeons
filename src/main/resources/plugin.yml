@@ -1,0 +1,8 @@
+name: Dungeon
+version: 1.0
+main: org.loopz.dungeon.Main
+api-version: 1.20
+commands:
+  dungeon:
+    description: manages a dungeon
+    usage: /<command>

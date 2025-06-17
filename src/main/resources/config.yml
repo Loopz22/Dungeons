@@ -1,0 +1,3 @@
+defaultLang: 'pt_BR' #Available languages: pt_BR, en_US
+bossPower: #powerName;effect;duration;particle
+  - 'INFECTION;Weakness;20;flame'
